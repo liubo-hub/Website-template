@@ -1,2 +1,1 @@
-# cbliu
-First website
+# Website template
